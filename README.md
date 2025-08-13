@@ -25,15 +25,5 @@ For this assignment (and every assignment/lab), you must login into the servers 
   * Points will be lost if you forget!
 * Do not forget, once you have pushed your changes to your repo make sure that you **submit them to Gradescope before the assignment deadline!**
 
-## Discussion questions
-You can discuss the following questions with your lab partner about your partition print: 
-
-1. why is the array or subarray printed in each line is the size that it is?
-
-2. which element was used as the pivot in each pass?, and therefore
-
-3. which elements have been swapped?
-
-Your answer should explain this for each recursive call, and explain what the values or p, q, and r are when the base cases are reached, as well as what the output of the code is when the base case is reached. 
 
 
